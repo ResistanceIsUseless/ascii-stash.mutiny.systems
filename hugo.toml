@@ -1,0 +1,5 @@
+baseURL = 'https://ascii-stash.mutiny.systems'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'hugo-theme-relearn'
